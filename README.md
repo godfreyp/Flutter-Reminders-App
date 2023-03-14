@@ -21,3 +21,7 @@ To use the app, follow these steps:
 ## Credits
 
 ReminderApp was developed by [Patrick Godfrey](https://github.com/godfreyp).
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for details.
