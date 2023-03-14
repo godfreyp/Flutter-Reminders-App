@@ -20,4 +20,4 @@ To use the app, follow these steps:
 
 ## Credits
 
-ReminderApp was developed by [Patrick Godfrey](https://github.com/yourusername).
+ReminderApp was developed by [Patrick Godfrey](https://github.com/godfreyp).
