@@ -1,16 +1,23 @@
-# reminderapp2
+# ReminderApp
 
-A new Flutter project.
+ReminderApp is a mobile application developed in Flutter that helps users to set reminders for various tasks. This app supports login and registration via a Python backend through a REST API.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+1. Clone the repository to your local machine using `git clone https://github.com/godfreyp/Flutter-Reminders-App.git`
+2. Install [Flutter](https://flutter.dev/docs/get-started/install) and all dependencies required to run Flutter apps.
+3. Run `flutter pub get` to install all necessary packages.
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To use the app, follow these steps:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Start the Python backend by running `python backendservice.py`.
+2. Start the Python microservices for contact support; `microservice_server_flask.py`, `contacts_server_zmq.py`, and `handshake_server_zmq.py`
+2. Launch the app in an emulator or a physical device by running `flutter run`.
+3. Register a new user account or login to an existing account.
+4. Set reminders for various tasks and view them in the app.
+
+## Credits
+
+ReminderApp was developed by [Patrick Godfrey](https://github.com/yourusername).
