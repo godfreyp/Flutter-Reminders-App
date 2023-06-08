@@ -4,7 +4,7 @@ ReminderApp is a mobile application developed in Flutter that helps users to set
 
 This is a demo project designed for a CS 361 at Oregon State University. It is not in a usable state without additional programs and access to a working Firestore DB instance.
 
-To see a demo of the program, please look this this video [here](https://youtu.be/elT2HcW3eBg) or below.
+To see a demo of the program, please look this this video [here](https://youtu.be/elT2HcW3eBg).
 
 ## Installation
 
