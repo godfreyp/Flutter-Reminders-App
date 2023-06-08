@@ -6,8 +6,6 @@ This is a demo project designed for a CS 361 at Oregon State University. It is n
 
 To see a demo of the program, please look this this video [here](https://youtu.be/elT2HcW3eBg) or below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/elT2HcW3eBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## Installation
 
 1. Clone the repository to your local machine using `git clone https://github.com/godfreyp/Flutter-Reminders-App.git`
